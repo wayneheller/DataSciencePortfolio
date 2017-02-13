@@ -5,7 +5,7 @@ Portfolio of Data Science Work to Demonstrate My Skills
 - 2. Store – Store the data into a data store
 - 3. Extract – Get the data from the data store
 - 4. Organize – Organize the data into a usable subset
-- 5. Tidy – Scrub / Clean the data
+- 5. Tidy – Scrub / Clean the data [Example](https://github.com/wayneheller/GatheringCleaningDataCourseProject.git)
 - 6. Transform – Change data into something your program will understand
 - 7. Visualize – Descriptive statistics exploration
 - 8. Model – Statistics + Machine Learning + Experiment Design
