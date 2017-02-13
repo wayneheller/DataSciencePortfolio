@@ -1,5 +1,5 @@
-# DataSciencePortfolio
-Portfolio of Data Science Work to Demonstrate My Skills
+# Data Science Portfolio
+Portfolio of Data Science Work to Demonstrate Skills and Level of Experience
 
 - 1. Import – Get the data from an original source
 - 2. Store – Store the data into a data store
